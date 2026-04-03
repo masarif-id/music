@@ -169,7 +169,7 @@
     "id": "rbxassetid://118234741160621",
     "category": "luar"
   },
-    {
+  {
     "name": "Photograph",
     "id": "rbxassetid://112123765729922",
     "category": "luar"
@@ -179,24 +179,29 @@
     "id": "rbxassetid://131785303732334",
     "category": "luar"
   },
-    {
+  {
     "name": "Lany",
     "id": "rbxassetid://104098006619103",
     "category": "luar"
   },
-      {
+  {
     "name": "The One That Got Away",
     "id": "rbxassetid://81398355355437",
     "category": "luar"
   },
-    {
+  {
     "name": "Moonwalkin'",
     "id": "rbxassetid://125546491948670",
     "category": "luar"
   },
-    {
+  {
     "name": "Berkaca-kaca",
     "id": "rbxassetid://84059000193798",
+    "category": "indonesia"
+  },
+  {
+    "name": "Terbuang dalam waktu",
+    "id": "rbxassetid://115266808810084",
     "category": "indonesia"
   },
   {
@@ -482,6 +487,71 @@
   {
     "name": "DJ ARABIC QESSET X ALA BALI X MELODY HABIBIE",
     "id": "rbxassetid://103058603447055",
+    "category": "dj"
+  },
+  {
+    "name": "Jamilah",
+    "id": "rbxassetid://116255319981650",
+    "category": "dj"
+  },
+  {
+    "name": "Coba-Coba",
+    "id": "rbxassetid://77533933904801",
+    "category": "dj"
+  },
+  {
+    "name": "Sabe Merindu",
+    "id": "rbxassetid://115487958477833",
+    "category": "dj"
+  },
+  {
+    "name": "Terakhir sayang",
+    "id": "rbxassetid://81767323182486",
+    "category": "dj"
+  },
+  {
+    "name": "Mary You",
+    "id": "rbxassetid://122739576414221",
+    "category": "dj"
+  },
+  {
+    "name": "Sa pamit mo pulang",
+    "id": "rbxassetid://100553645463045",
+    "category": "dj"
+  },
+  {
+    "name": "Dj Ayy",
+    "id": "rbxassetid://90145710334449",
+    "category": "dj"
+  },
+  {
+    "name": "Dj Aww",
+    "id": "rbxassetid://118390472006859",
+    "category": "dj"
+  },
+  {
+    "name": "Galau Ya",
+    "id": "rbxassetid://125435502614158",
+    "category": "dj"
+  },
+  {
+    "name": "MASHUP INDIA",
+    "id": "rbxassetid://122697119139477",
+    "category": "dj"
+  },
+  {
+    "name": "Ragae",
+    "id": "rbxassetid://117409989419855",
+    "category": "dj"
+  },
+  {
+    "name": "Ragae 2",
+    "id": "rbxassetid://110103383500673",
+    "category": "dj"
+  },
+  {
+    "name": "Ragae 3",
+    "id": "rbxassetid://91829387390742",
     "category": "dj"
   }
 ]
